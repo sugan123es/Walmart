@@ -1,5 +1,4 @@
-# Walmart
-It is an SQL project for Walmart data analysis
+
 # Walmart Sales Data Analysis
 
 ## About
